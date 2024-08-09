@@ -1,5 +1,5 @@
 <template>
-  <div class="w-75">
+  <div class="h-screen my-5">
     <GSwiper></GSwiper>
   </div>
 </template>
